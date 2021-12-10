@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email       = ['awang@kodia.com']
   spec.summary     = 'Time zone helpers'
   spec.license     = 'MIT'
-  spec.homepage    = 'https://kodia.com'
+  spec.homepage    = 'https://github.com/K0D1A/hellobase-tz'
 
   spec.files = Dir['{lib}/**/*', 'MIT-LICENSE']
 
