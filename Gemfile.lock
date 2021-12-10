@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    hellobase-tz (0.1.0)
+      tzinfo (~> 2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.1.9)
+    minitest (5.14.4)
+    tzinfo (2.0.4)
+      concurrent-ruby (~> 1.0)
+
+PLATFORMS
+  -darwin-21
+
+DEPENDENCIES
+  hellobase-tz!
+  minitest (~> 5.14)
+
+BUNDLED WITH
+   2.2.32
