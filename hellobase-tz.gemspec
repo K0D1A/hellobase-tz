@@ -15,7 +15,6 @@ Gem::Specification.new do |spec|
 
   spec.files = Dir['{lib}/**/*', 'MIT-LICENSE']
 
-  spec.add_dependency 'tzinfo',   '~> 2'
-
-  spec.add_development_dependency 'minitest',     '~> 5.14'
+  spec.add_dependency 'tzinfo', '~> 2'
+  spec.add_development_dependency 'minitest', '~> 5.14'
 end
