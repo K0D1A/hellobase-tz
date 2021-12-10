@@ -10,6 +10,8 @@ Gem::Specification.new do |spec|
   spec.authors     = ['Anthony Wang']
   spec.email       = ['awang@kodia.com']
   spec.summary     = 'Time zone helpers'
+  spec.license     = 'MIT'
+  spec.homepage    = 'https://kodia.com'
 
   spec.files = Dir['{lib}/**/*', 'MIT-LICENSE']
 
